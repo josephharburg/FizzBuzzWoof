@@ -1,0 +1,10 @@
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\obj\Debug\netcoreapp3.0\FizzBuzzApp.AssemblyInfoInputs.cache
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\obj\Debug\netcoreapp3.0\FizzBuzzApp.AssemblyInfo.cs
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\bin\Debug\netcoreapp3.0\FizzBuzzApp.exe
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\bin\Debug\netcoreapp3.0\FizzBuzzApp.deps.json
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\bin\Debug\netcoreapp3.0\FizzBuzzApp.runtimeconfig.json
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\bin\Debug\netcoreapp3.0\FizzBuzzApp.runtimeconfig.dev.json
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\bin\Debug\netcoreapp3.0\FizzBuzzApp.dll
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\bin\Debug\netcoreapp3.0\FizzBuzzApp.pdb
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\obj\Debug\netcoreapp3.0\FizzBuzzApp.dll
+C:\Users\josep\Desktop\coding\C#\FizzBuzzWoof\FizzBuzzApp\obj\Debug\netcoreapp3.0\FizzBuzzApp.pdb
